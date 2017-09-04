@@ -1,0 +1,52 @@
+{
+    "description": "LED matrix text display special effects", 
+    "repository": {
+        "url": "https://github.com/MajicDesigns/Parola", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif8266", 
+        "intel_arc32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "export": {
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ], 
+        "include": null
+    }, 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "majicDesigns", 
+            "url": null, 
+            "email": null
+        }, 
+        {
+            "maintainer": true, 
+            "name": "marco_c", 
+            "url": null, 
+            "email": "8136821@gmail.com"
+        }
+    ], 
+    "keywords": [
+        "display"
+    ], 
+    "id": 1389, 
+    "name": "MD_Parola", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "2.6.4", 
+    "homepage": "https://github.com/MajicDesigns/MD_Parola"
+}
